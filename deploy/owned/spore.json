@@ -1,0 +1,14 @@
+{
+  "name": "owned",
+  "version": "0.1.0",
+  "description": "Contract creator is contract owner.",
+  "dependencies": {},
+  "contracts": [
+    "owned"
+  ],
+  "ignore": [],
+  "files": [
+    "contracts/owned.sol"
+  ],
+  "tags": []
+}

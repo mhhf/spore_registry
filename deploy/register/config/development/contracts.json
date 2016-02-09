@@ -1,0 +1,43 @@
+{
+  "Register": {
+    "source": ".//contracts/Register.sol",
+    "binary": "0x60606040526040516020806102308339016040526060805190602001505b5b33600060006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908302179055505b806002600050819055505b506101cc806100646000396000f360606040526000357c0100000000000000000000000000000000000000000000000000000000900480631aa3a0081461004f57806341c0e1b51461005c578063a2b40d19146100695761004d565b005b61005a600450610110565b005b61006760045061007c565b005b61007a600480359060200150610167565b005b600060009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff16141561010d57600060009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16ff5b5b565b6002600050548034101515610163576001600160005060003373ffffffffffffffffffffffffffffffffffffffff16815260200190815260200160002060006101000a81548160ff021916908302179055505b505b565b600060009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff1614156101c857806002600050819055505b5b5056",
+    "abi": [
+      {
+        "inputs": [],
+        "constant": false,
+        "name": "register",
+        "outputs": [],
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "constant": false,
+        "name": "kill",
+        "outputs": [],
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "type": "uint256",
+            "name": "_price"
+          }
+        ],
+        "constant": false,
+        "name": "changePrice",
+        "outputs": [],
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "type": "uint256",
+            "name": "initialPrice"
+          }
+        ],
+        "type": "constructor"
+      }
+    ]
+  }
+}

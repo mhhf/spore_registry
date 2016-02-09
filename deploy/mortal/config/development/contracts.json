@@ -1,0 +1,25 @@
+{
+  "mortal": {
+    "source": ".//contracts/mortal.sol",
+    "binary": "0x60606040525b33600060006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908302179055505b60d58061003e6000396000f360606040526000357c01000000000000000000000000000000000000000000000000000000009004806341c0e1b5146037576035565b005b60406004506042565b005b600060009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff16141560d257600060009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16ff5b5b56",
+    "abi": [
+      {
+        "inputs": [],
+        "constant": false,
+        "name": "kill",
+        "outputs": [],
+        "type": "function"
+      }
+    ]
+  },
+  "owned": {
+    "source": ".//contracts/owned.sol",
+    "binary": "0x60606040525b33600060006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908302179055505b600a80603d6000396000f360606040526008565b00",
+    "abi": [
+      {
+        "inputs": [],
+        "type": "constructor"
+      }
+    ]
+  }
+}

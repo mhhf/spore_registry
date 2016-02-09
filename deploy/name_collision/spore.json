@@ -1,0 +1,14 @@
+{
+  "name": "name_collision",
+  "version": "0.1.0",
+  "description": "",
+  "dependencies": {},
+  "contracts": [
+    "Example"
+  ],
+  "ignore": [],
+  "files": [
+    "contracts/Example.sol"
+  ],
+  "tags": []
+}

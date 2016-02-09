@@ -1,0 +1,16 @@
+{
+  "name": "register",
+  "version": "0.1.0",
+  "description": "",
+  "dependencies": {
+    "mortal": "QmbgeTcVho4YyCagRrxNsdzjJFrPurbL1tZeTC7BTq46zE"
+  },
+  "contracts": [
+    "Register"
+  ],
+  "ignore": [],
+  "files": [
+    "contracts/Register.sol"
+  ],
+  "tags": []
+}

@@ -1,0 +1,20 @@
+{
+  "name": "spore",
+  "version": "0.1.0",
+  "description": "Simple package manager for dapp development.",
+  "dependencies": {},
+  "contracts": [
+    "Spore"
+  ],
+  "tags": [
+    "package",
+    "manager",
+    "test"
+  ],
+  "files": [
+    "README.md",
+    "test/spore.js",
+    "contracts/Spore.sol"
+  ],
+  "ignore": []
+}
